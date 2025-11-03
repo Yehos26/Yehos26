@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 💻 I’m passionate about everything related to software — from simple scripts to complex architectures.<br>🌱 Continuously learning, experimenting, and building projects that challenge my understanding of technology.<br>⚙️ I enjoy exploring how small ideas can grow into powerful solutions through code.<br>📚 Always open to collaboration, creativity, and new tech adventures!
 
 
